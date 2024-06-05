@@ -1,2 +1,3 @@
 # learning-js-basics
-Hey there, I'm Sami Bouguettaya, 19. I finished my second year in computer science. Now, I want to learn React. But first, I need to understand the basics of JavaScript. 
+
+the purpose of this project is to prepare the minimum JS required to start coding front end app using a framework like React js. 
