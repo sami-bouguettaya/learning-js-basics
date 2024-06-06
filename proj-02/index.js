@@ -7,13 +7,7 @@ let messageEl = document.getElementById("message-el");
 let sumEL = document.getElementById("sum-el"); //let sumEL = document.querySelector("#sum-el")
 let cardsEl = document.querySelector("#cards-el");
 
-let player = {
-  name: "sam",
-  chips: 145,
-};
 
-let playerEl = document.getElementById("player-el");
-playerEl.textContent = player.name + " : $" + player.chips;
 
 function getRandomCard() {
   let x = Math.floor(Math.random() * 13) + 1;
